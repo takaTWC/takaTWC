@@ -1,16 +1,22 @@
-### Hi there 👋
+ Summary
+---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takaTWC&theme=dracula" alt="Profile Details" />
+</div>
 
-<!--
-**takaTWC/takaTWC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ GitHub Stats & Most Used Languages
+---
+<div align="center">
+  <a href="https://github.com/takaTWC">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=takaTWC&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/takaTWC">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takaTWC&layout=compact&theme=dracula" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ GitHub Trophies
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=takaTWC&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+---
